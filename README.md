@@ -2,7 +2,12 @@
 Importação de lista de informações para o banco de dados
 
 ## Estrutura
-
+O repositório contém 5 arquivos, sendo eles:
+* clientes.csv - Contém a lista de registros a serem inseridos no banco
+* conexão.php - Contém o método de conexão com o banco de dados
+* importacao_banco.php - Responsável por armazenar as informações no banco
+* leitura_csv.php - Possui a função responsável por fazer a leitura do arquivo csv e enviar para o importacao_banco.php
+* sql.sql - Contém os scripts a serem rodados no banco de dados
 
 ## Instruções
 

@@ -13,7 +13,6 @@ O repositório contém 5 arquivos, sendo eles:
 1º Passo - Clonar repositório na pasta do servidor  <br/>
 2º Passo - Executar os scripts do arquivo sql.sql em seu MYSQL  <br/>
 3° Passo - Executar o arquivo importação_banco.php  <br/>
-OK!
 
 ## Versão
 * Linux Ubuntu 16.04.01 LTS

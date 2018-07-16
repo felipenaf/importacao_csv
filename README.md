@@ -2,7 +2,7 @@
 Importação de lista de informações para o banco de dados
 
 ## Estrutura
-### O repositório contém 5 arquivos, sendo eles:
+##### O repositório contém 5 arquivos, sendo eles:
 * clientes.csv - Contém a lista de registros a serem inseridos no banco
 * conexão.php - Contém o método de conexão com o banco de dados
 * importacao_banco.php - Responsável por armazenar as informações no banco
@@ -10,8 +10,8 @@ Importação de lista de informações para o banco de dados
 * sql.sql - Contém os scripts a serem rodados no banco de dados
 
 ## Instruções
-### 1º Passo - Executar os scripts do arquivo sql.sql em seu MYSQL
-### 2º Passo - 
+##### 1º Passo - Executar os scripts do arquivo sql.sql em seu MYSQL
+##### 2º Passo - 
 
 ## Versão
 * Linux Ubuntu 16.04.01 LTS

@@ -10,6 +10,8 @@ O repositório contém 5 arquivos, sendo eles:
 * sql.sql - Contém os scripts a serem rodados no banco de dados
 
 ## Instruções
+1º Passo - Executar os scripts do arquivo sql.sql em seu MYSQL
+2º Passo - 
 
 ## Versão
 * Linux Ubuntu 16.04.01 LTS

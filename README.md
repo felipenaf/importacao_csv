@@ -1,4 +1,4 @@
-# importacao_csv
+# Importacao de arquivo .csv
 Nesse script fiz a importação de um arquivo .csv que contém diversas informações como nome, email, endereço e data de cadastro, todos os registros com um padrão em sua separação, o ";", sendo assim foi criado um array para receber todos os dados separados e em seguida serem salvos no banco de dados.
 
 ## Estrutura
